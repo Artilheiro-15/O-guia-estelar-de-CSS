@@ -1,0 +1,15 @@
+@import 'https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap';
+
+h1 {
+    color: rgb(255, 0, 0);
+    font-family: 'Dancing Script', cursive;
+}
+
+strong {
+    color: rgb(0, 157, 255);
+
+}
+
+p {
+    color: rgb(255, 0, 0);
+}
